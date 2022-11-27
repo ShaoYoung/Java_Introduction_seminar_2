@@ -1,0 +1,22 @@
+.git
+  .gitignore
+.idea
+  info.txt
+  json_string.json
+  list_files.txt
+  log.txt
+  log_calc.txt
+  log_save_list_files.txt
+out
+  README.md
+  SolutionHW_2_1.java
+  SolutionHW_2_2.java
+  SolutionHW_2_3.java
+  SolutionHW_2_4.java
+  Task_2_1.java
+  Task_2_2.java
+  Task_2_3.java
+  Task_2_4.java
+  Task_2_5.java
+  Task_2_6.java
+  test_repeat.txt

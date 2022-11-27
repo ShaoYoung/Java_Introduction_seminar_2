@@ -1,0 +1,6 @@
+нояб. 27, 2022 12:48:09 PM SolutionHW_2_4 main
+WARNING: Не корректный ввод: For input string: "в"
+нояб. 27, 2022 12:48:12 PM SolutionHW_2_4 main
+WARNING: Не корректный ввод: For input string: "в"
+нояб. 27, 2022 12:48:21 PM SolutionHW_2_4 main
+INFO: 3 ^ 6 = 729,00
